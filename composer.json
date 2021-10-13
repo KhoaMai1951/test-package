@@ -1,0 +1,19 @@
+{
+    "name": "devdojo/calculator",
+    "description": "This demo package will do some calculations",
+    "type": "project",
+    "license": "none",
+    "autoload": {
+        "psr-4": {
+            "Devdojo\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Khoa Mai",
+            "email": "dangkhoa.lampart@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
